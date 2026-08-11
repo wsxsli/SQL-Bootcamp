@@ -16,4 +16,4 @@ Practice makes perfect. Practice SQL every day to get a data job.
 
 FROM → find the table  
 WHERE → filter the rows  
-SELECT → choose what to display
+SELECT → choose what to display Columns
