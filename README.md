@@ -17,3 +17,17 @@ Practice makes perfect. Practice SQL every day to get a data job.
 FROM → find the table  
 WHERE → filter the rows  
 SELECT → choose what to display Columns
+
+# Day 14 – SQL JOIN and GROUP BY Practice
+
+Today I practiced:
+- JOIN
+- ON
+- WHERE
+- COUNT()
+- GROUP BY
+
+Key takeaway:
+JOIN connects tables.
+GROUP BY groups rows by a specific column.
+COUNT() counts rows.
